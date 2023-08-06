@@ -1,0 +1,7 @@
+2023-08-06 06:11:29.435205 - Initialized conversion of CBT637
+2023-08-06 06:11:29.465981 - Received CBT.V505.FILE637.PDS from FILE637.XMI 
+2023-08-06 06:11:29.468164 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE637.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:11:29.469224 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE637.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:11:29.470189 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE637.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:11:29.471188 - Found @FILE637.txt (text/plain) in CBT.V505.FILE637.PDS, moved to PDS/@FILE637
+2023-08-06 06:11:29.472208 - Found AWGCPRL1.txt (text/plain) in CBT.V505.FILE637.PDS, moved to PDS/AWGCPRL1
