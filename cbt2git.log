@@ -1,6 +1,6 @@
-2025-04-13 21:26:06.026789 - Received CBT.V508.FILE637.PDS from FILE637.XMI 
-2025-04-13 21:26:06.027569 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:26:06.027675 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$NOTE1
-2025-04-13 21:26:06.027757 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$NOTE2
-2025-04-13 21:26:06.027819 - Found @FILE637.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/@FILE637
-2025-04-13 21:26:06.027909 - Found AWGCPRL1.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/AWGCPRL1
+2025-04-15 04:08:06.270196 - Received CBT.V508.FILE637.PDS from FILE637.XMI 
+2025-04-15 04:08:06.271197 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:08:06.271645 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$NOTE1
+2025-04-15 04:08:06.272006 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/$$NOTE2
+2025-04-15 04:08:06.272193 - Found @FILE637.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/@FILE637
+2025-04-15 04:08:06.272688 - Found AWGCPRL1.txt (text/plain) in CBT.V508.FILE637.PDS, moved to PDS/AWGCPRL1
